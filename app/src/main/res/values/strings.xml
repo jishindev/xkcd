@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XKCD</string>
+    <string name="desc_image">Comic image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
