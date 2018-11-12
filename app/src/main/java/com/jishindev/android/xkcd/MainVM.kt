@@ -11,7 +11,7 @@ import kotlinx.coroutines.*
 class MainVM : ViewModel() {
 
     private val api = XkcdApi.getApi()
-    private var currentIndex = 2000
+    private var currentIndex = 1
     var ldComicsList = MutableLiveData<ArrayList<Comic>>()
     var job: Job? = null
 
